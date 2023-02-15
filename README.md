@@ -1,5 +1,7 @@
 ######################## SHASHANK KUSHWAHA ####################### SHASHANK KUSHWAHA #######################
 
+[ PLEASE DON'T USE MY API ]
+
 # Here i am created an Blockchain website which tells about the volume of crypto coins with live charting system
 
 In this i am fetching api from third party source and display there graph in my cryptocharting website with the help of chartjs charting system my website also display cryptocurrency related news with the help of bing api and it also display data of top crypto exchanges.
